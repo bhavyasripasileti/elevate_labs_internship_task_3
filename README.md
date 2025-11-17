@@ -14,8 +14,6 @@ This project contains SQL-based data exploration and analysis performed on a UK 
 
 ✔ Exploratory SQL Analysis
 
-✔ Visualizations (Revenue, Top Products, Trends)
-
 ✔ Insights & Findings
 
 🔷 Technologies Used
@@ -28,8 +26,6 @@ This project contains SQL-based data exploration and analysis performed on a UK 
 
 -Pandas
 
--Matplotlib
-
 🔷 How to Run
 
 -Open the .ipynb notebook
@@ -39,10 +35,15 @@ This project contains SQL-based data exploration and analysis performed on a UK 
 -Run all cells
 
 🔷 Project Structure
+
 elevate_labs_internship_task_3/
+
 │── README.md
+
 │── Task2_SQL_Analysis.ipynb
+
 │── ecommerce.db
+
 │── outputs/
 
 🔷 SQL Tasks Completed
