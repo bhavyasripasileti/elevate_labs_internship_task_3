@@ -42,9 +42,7 @@ elevate_labs_internship_task_3/
 
 │── Task2_SQL_Analysis.ipynb
 
-│── ecommerce.db
-
-│── outputs/
+│── screenshots
 
 🔷 SQL Tasks Completed
 
